@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://TheBremondPress.github.io/tropy-static-iiif/index.json",
+    "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/index.json",
     "type": "Collection",
     "label": {
         "none": [
@@ -9,7 +9,7 @@
     },
     "thumbnail": [
         {
-            "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-09/ad34a09170e12f587598c57122be60b6/full/167,300/0/default.jpg",
+            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-09/ad34a09170e12f587598c57122be60b6/full/167,300/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 300,
@@ -18,7 +18,7 @@
     ],
     "items": [
         {
-            "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-09/manifest.json",
+            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-09/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -27,7 +27,7 @@
             }
         },
         {
-            "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-30/manifest.json",
+            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-30/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -36,7 +36,7 @@
             }
         },
         {
-            "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/manifest.json",
+            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -45,7 +45,7 @@
             }
         },
         {
-            "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-02/manifest.json",
+            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-02/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -54,7 +54,7 @@
             }
         },
         {
-            "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-16/manifest.json",
+            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-16/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [

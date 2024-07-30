@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/3/context.json",
-  "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-30/85c30b353a7b7f8bf05c6b0bbd221a0b",
+  "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-30/85c30b353a7b7f8bf05c6b0bbd221a0b",
   "type": "ImageService3",
   "profile": "level0",
   "protocol": "http://iiif.io/api/image",

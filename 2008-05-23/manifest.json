@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/manifest.json",
+    "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/manifest.json",
     "type": "Manifest",
     "label": {
         "none": [
@@ -48,7 +48,7 @@
     "rights": "http://rightsstatements.org/vocab/InC/1.0/",
     "thumbnail": [
         {
-            "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/f6141e4355a6c1d862d51d72c8f84214/full/168,300/0/default.jpg",
+            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/f6141e4355a6c1d862d51d72c8f84214/full/168,300/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 300,
@@ -57,7 +57,7 @@
     ],
     "items": [
         {
-            "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/canvas/1",
+            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/canvas/1",
             "type": "Canvas",
             "height": 4300,
             "width": 2400,
@@ -68,7 +68,7 @@
             },
             "thumbnail": [
                 {
-                    "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/f6141e4355a6c1d862d51d72c8f84214/full/168,300/0/default.jpg",
+                    "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/f6141e4355a6c1d862d51d72c8f84214/full/168,300/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "height": 300,
@@ -77,23 +77,23 @@
             ],
             "items": [
                 {
-                    "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/canvas/1/annopage-1",
+                    "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/canvas/1/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/canvas/1/annopage-1/anno-1",
+                            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/canvas/1/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/canvas/1",
+                            "target": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/canvas/1",
                             "body": {
-                                "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/f6141e4355a6c1d862d51d72c8f84214/full/1116,2000/0/default.jpg",
+                                "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/f6141e4355a6c1d862d51d72c8f84214/full/1116,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1116,
                                 "service": [
                                     {
-                                        "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/f6141e4355a6c1d862d51d72c8f84214",
+                                        "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/f6141e4355a6c1d862d51d72c8f84214",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -105,7 +105,7 @@
             ]
         },
         {
-            "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/canvas/2",
+            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/canvas/2",
             "type": "Canvas",
             "height": 4300,
             "width": 2400,
@@ -116,7 +116,7 @@
             },
             "thumbnail": [
                 {
-                    "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/6ba01f30ee5bffa4013ce485332f2f0c/full/168,300/0/default.jpg",
+                    "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/6ba01f30ee5bffa4013ce485332f2f0c/full/168,300/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "height": 300,
@@ -125,23 +125,23 @@
             ],
             "items": [
                 {
-                    "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/canvas/2/annopage-1",
+                    "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/canvas/2/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/canvas/2/annopage-1/anno-1",
+                            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/canvas/2/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/canvas/2",
+                            "target": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/canvas/2",
                             "body": {
-                                "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/6ba01f30ee5bffa4013ce485332f2f0c/full/1116,2000/0/default.jpg",
+                                "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/6ba01f30ee5bffa4013ce485332f2f0c/full/1116,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1116,
                                 "service": [
                                     {
-                                        "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/6ba01f30ee5bffa4013ce485332f2f0c",
+                                        "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/6ba01f30ee5bffa4013ce485332f2f0c",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -153,7 +153,7 @@
             ]
         },
         {
-            "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/canvas/3",
+            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/canvas/3",
             "type": "Canvas",
             "height": 4300,
             "width": 2400,
@@ -164,7 +164,7 @@
             },
             "thumbnail": [
                 {
-                    "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/019d2abea4870564a9e5c50b0b1ce4e0/full/168,300/0/default.jpg",
+                    "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/019d2abea4870564a9e5c50b0b1ce4e0/full/168,300/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "height": 300,
@@ -173,23 +173,23 @@
             ],
             "items": [
                 {
-                    "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/canvas/3/annopage-1",
+                    "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/canvas/3/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/canvas/3/annopage-1/anno-1",
+                            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/canvas/3/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/canvas/3",
+                            "target": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/canvas/3",
                             "body": {
-                                "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/019d2abea4870564a9e5c50b0b1ce4e0/full/1116,2000/0/default.jpg",
+                                "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/019d2abea4870564a9e5c50b0b1ce4e0/full/1116,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1116,
                                 "service": [
                                     {
-                                        "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/019d2abea4870564a9e5c50b0b1ce4e0",
+                                        "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/019d2abea4870564a9e5c50b0b1ce4e0",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -201,7 +201,7 @@
             ]
         },
         {
-            "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/canvas/4",
+            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/canvas/4",
             "type": "Canvas",
             "height": 4300,
             "width": 2400,
@@ -212,7 +212,7 @@
             },
             "thumbnail": [
                 {
-                    "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/97250bb97cd5312724e7a3c123e2dade/full/168,300/0/default.jpg",
+                    "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/97250bb97cd5312724e7a3c123e2dade/full/168,300/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "height": 300,
@@ -221,23 +221,23 @@
             ],
             "items": [
                 {
-                    "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/canvas/4/annopage-1",
+                    "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/canvas/4/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/canvas/4/annopage-1/anno-1",
+                            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/canvas/4/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/canvas/4",
+                            "target": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/canvas/4",
                             "body": {
-                                "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/97250bb97cd5312724e7a3c123e2dade/full/1116,2000/0/default.jpg",
+                                "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/97250bb97cd5312724e7a3c123e2dade/full/1116,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1116,
                                 "service": [
                                     {
-                                        "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/97250bb97cd5312724e7a3c123e2dade",
+                                        "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/97250bb97cd5312724e7a3c123e2dade",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -249,7 +249,7 @@
             ]
         },
         {
-            "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/canvas/5",
+            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/canvas/5",
             "type": "Canvas",
             "height": 4300,
             "width": 2400,
@@ -260,7 +260,7 @@
             },
             "thumbnail": [
                 {
-                    "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/9c026544c0366d42fa404a2ef8b9a530/full/168,300/0/default.jpg",
+                    "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/9c026544c0366d42fa404a2ef8b9a530/full/168,300/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "height": 300,
@@ -269,23 +269,23 @@
             ],
             "items": [
                 {
-                    "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/canvas/5/annopage-1",
+                    "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/canvas/5/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/canvas/5/annopage-1/anno-1",
+                            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/canvas/5/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/canvas/5",
+                            "target": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/canvas/5",
                             "body": {
-                                "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/9c026544c0366d42fa404a2ef8b9a530/full/1116,2000/0/default.jpg",
+                                "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/9c026544c0366d42fa404a2ef8b9a530/full/1116,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1116,
                                 "service": [
                                     {
-                                        "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/9c026544c0366d42fa404a2ef8b9a530",
+                                        "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/9c026544c0366d42fa404a2ef8b9a530",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -297,7 +297,7 @@
             ]
         },
         {
-            "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/canvas/6",
+            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/canvas/6",
             "type": "Canvas",
             "height": 4300,
             "width": 2400,
@@ -308,7 +308,7 @@
             },
             "thumbnail": [
                 {
-                    "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/92126e02b0aba247716a5ee08c779174/full/168,300/0/default.jpg",
+                    "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/92126e02b0aba247716a5ee08c779174/full/168,300/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "height": 300,
@@ -317,23 +317,23 @@
             ],
             "items": [
                 {
-                    "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/canvas/6/annopage-1",
+                    "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/canvas/6/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/canvas/6/annopage-1/anno-1",
+                            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/canvas/6/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/canvas/6",
+                            "target": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/canvas/6",
                             "body": {
-                                "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/92126e02b0aba247716a5ee08c779174/full/1116,2000/0/default.jpg",
+                                "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/92126e02b0aba247716a5ee08c779174/full/1116,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1116,
                                 "service": [
                                     {
-                                        "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/92126e02b0aba247716a5ee08c779174",
+                                        "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-23/92126e02b0aba247716a5ee08c779174",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
