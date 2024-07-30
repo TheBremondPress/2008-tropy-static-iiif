@@ -1,0 +1,66 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://TheBremondPress.github.io/tropy-static-iiif/index.json",
+    "type": "Collection",
+    "label": {
+        "none": [
+            "bremond"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-09/ad34a09170e12f587598c57122be60b6/full/167,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 167
+        }
+    ],
+    "items": [
+        {
+            "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-09/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "2008, May 9 - The Bremond Press"
+                ]
+            }
+        },
+        {
+            "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-30/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "2008, May 30 - The Bremond Press"
+                ]
+            }
+        },
+        {
+            "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-23/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "2008, May 23 - The Bremond Press"
+                ]
+            }
+        },
+        {
+            "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-02/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "2008, May 2 - The Bremond Press"
+                ]
+            }
+        },
+        {
+            "id": "https://TheBremondPress.github.io/tropy-static-iiif/2008-05-16/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "2008, May 16 - The Bremond Press"
+                ]
+            }
+        }
+    ]
+}
