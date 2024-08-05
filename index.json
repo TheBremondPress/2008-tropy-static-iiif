@@ -4,19 +4,28 @@
     "type": "Collection",
     "label": {
         "none": [
-            "bremond"
+            "The Bremond Press"
         ]
     },
     "thumbnail": [
         {
-            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-09/ad34a09170e12f587598c57122be60b6/full/167,300/0/default.jpg",
+            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/the-bremond-press-hero/dc857a55ca1b20b6fe0d1d2f02c5a95f/full/300,125/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
-            "height": 300,
-            "width": 167
+            "height": 125,
+            "width": 300
         }
     ],
     "items": [
+        {
+            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/the-bremond-press-hero/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "The Bremond Press Hero"
+                ]
+            }
+        },
         {
             "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-09/manifest.json",
             "type": "Manifest",
@@ -59,6 +68,15 @@
             "label": {
                 "none": [
                     "2008, May 16 - The Bremond Press"
+                ]
+            }
+        },
+        {
+            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-07-04/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "2008, July 4  The Bremond Press"
                 ]
             }
         }
