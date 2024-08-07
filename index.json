@@ -27,6 +27,51 @@
             }
         },
         {
+            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-07-04/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "July 4, 2008 - The Bremond Press"
+                ]
+            }
+        },
+        {
+            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-07-18/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "July 18, 2008 - The Bremond Press"
+                ]
+            }
+        },
+        {
+            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-08-1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "August 1, 2008 - The Bremond Press"
+                ]
+            }
+        },
+        {
+            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-04-25/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "April 25, 2008 - The Bremond Press"
+                ]
+            }
+        },
+        {
+            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-04-18/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "April 18, 2008 - The Bremond Press"
+                ]
+            }
+        },
+        {
             "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/2008-05-09/manifest.json",
             "type": "Manifest",
             "label": {

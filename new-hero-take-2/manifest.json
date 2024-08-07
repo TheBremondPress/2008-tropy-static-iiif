@@ -11,18 +11,6 @@
         {
             "label": {
                 "none": [
-                    "Date"
-                ]
-            },
-            "value": {
-                "none": [
-                    "2008"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
                     "Type"
                 ]
             },
