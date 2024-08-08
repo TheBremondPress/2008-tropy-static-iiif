@@ -9,20 +9,20 @@
     },
     "thumbnail": [
         {
-            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/new-hero-take-2/2c84e6dc50a1e677f5280c20fa552cdf/full/300,154/0/default.jpg",
+            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/todd-new-hero-image/f26f60da66ee4ab8196100d2fbd99d96/full/300,72/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
-            "height": 154,
+            "height": 72,
             "width": 300
         }
     ],
     "items": [
         {
-            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/new-hero-take-2/manifest.json",
+            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/todd-new-hero-image/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
-                    "The Bremond Press Hero"
+                    "New Hero"
                 ]
             }
         },
